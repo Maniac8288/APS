@@ -10,7 +10,7 @@ namespace ConsoleApplication9
     {
         static void Main(string[] args)
         {
-           Console.WriteLine("Чо кого!?")
+            Console.WriteLine("Чо кого!?");
         }
     }
 }
